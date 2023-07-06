@@ -1,0 +1,319 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.flex_items1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items3{
+	width:25%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items6{
+	width:50%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}.flex_items8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}
+.flex_items9{
+	width:75%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}
+.flex_items10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}
+.flex_items11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}
+.flex_items12{
+	width:100%;
+	flex:0 0 auto;
+	padding:0 15px;
+	
+}
+/*header section start*/
+header{
+	background-color:black;
+	padding:20px 0;
+}
+
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding:0 15px;
+}
+.flex_container{
+	display:flex;
+	flex-wrap:wrap;
+	margin:0 -15px;
+}
+
+/*logo section start*/
+.logo{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+/*logo section end*/
+
+/*navbar section start*/
+.navbar{
+	background-color:red;
+	height:50px;
+	width:auto;
+}
+/* navbar section end*/
+
+/*header section end*/
+
+
+/*banner section start*/
+.banner{
+	background-color:red;
+	padding:80px 0;
+}
+
+.banner_content{
+	height:200px;
+	width:auto;
+	background-color:black;
+}
+
+
+/*banner section end*/
+
+/* slide section start*/
+.slide{
+	background-color:black;
+	padding:60px 0;
+}
+
+.content1{
+	background-color:red;
+	width:auto;
+	height:40px;
+}
+
+/*slide section end*/
+
+/*section2 start*/
+.sec2{
+	background-color:red;
+	padding:5em 0;
+}
+.content_text{
+	background-color:black;
+	height:200px;
+	width:auto;
+}
+
+/*  section2 end*/
+
+/*setion3 start*/
+.sec3{
+	background-color:black;
+	padding:3em 0;
+}
+.content_text1{
+	background-color:red;
+	height:100px;
+	width:auto;
+}
+/*section3 end*/
+
+/*section start*/
+.sec4{
+	background-color:black;
+	padding:3em 0;
+	
+}
+/*section4 end*/
+
+/*section5 start*/
+.sec5{
+	background-color:black;
+	padding:3em 0;
+}
+.content_text2{
+	background-color:red;
+	height:350px;
+	width:auto;
+}
+/*section5 end*/
+
+/*section6 start*/
+.sec6{
+	background-color:red;
+	padding:5em 0;
+}
+.content_box{
+	background-color:black;
+	height:3em;
+	width:auto;
+	margin:2em 0;
+}
+.content_text3{
+	background-color:black;
+	height:150px;
+	width:auto;
+	margin:2em;
+}
+
+/*section6 end*/
+
+/* section7 start*/
+.sec7{
+	background-color:black;
+	padding:2em 0;
+}
+.content_box1{
+	background-color:red;
+	height:3em;
+	width:auto;
+	margin:2em 0;
+}
+.content_text4{
+	background-color:red;
+	height:300px;
+	width:auto;
+	margin:2em;
+}
+
+/* section7 end*/
+
+/*section8 start*/
+.sec8{
+	background-color:red;
+	padding:2em 0;
+}
+.content_text5{
+	background-color:black;
+	height:200px;
+}
+
+
+/*section8 end*/
+
+/*section9 start*/
+.sec9{
+	background-color:black;
+	padding:2em 0;
+}
+.pricing_box{
+	background-color:red;
+	height:400px;
+	
+}
+/*section9 end*/
+
+/*section10 start*/
+.sec10{
+	background-color:red;
+	padding:2em 0;
+}
+.sec10_title{
+	background-color:black;
+	height:3em;
+}
+.content_text6{
+	background-color:black;
+	height:2em;
+	margin:1em 0;
+}
+
+/*section10 end*/
+
+/*section11 start*/
+.sec11{
+	background-color:black;
+	padding:2em 0;
+}
+.sec11_title{
+	background-color:red;
+	height:3em;
+	margin:2em 0;
+}
+.sec11_content_box{
+	background-color:red;
+	height:400px;
+}
+/*section11 end*/
+
+/*section12 start*/
+.sec12{
+	background-color:red;
+	padding:3em 0;
+}
+.sec12_title{
+	background-color:black;
+	height:3em;
+	margin:2em 0;
+}
+.sec12_content_box{
+	background-color:black;
+	height:200px;
+}
+.sec12_content_box1{
+	background-color:black;
+	height:200px;
+	margin:2em 0;
+}
+.sec12_content_box3{
+	background-color:black;
+	height:500px;
+}
+/*section12 end*/
+
+/*section13 start*/
+.sec13{
+	background-color:black;
+	padding:2em;
+}
+.sec13_title{
+	background-color:red;
+	height:5em;
+}
+.sec13_content{
+	margin:2em 0;
+	background-color:red;
+	height:300px;
+}
+
+/*section13 end*/
